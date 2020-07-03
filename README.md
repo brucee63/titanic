@@ -57,5 +57,5 @@ Project Organization
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
 <p>
-	No data is being checked ij.	
+	No data is being checked in.	
 </p>
